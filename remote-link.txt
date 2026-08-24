@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://rip-capital-priest-network.trycloudflare.com/vnc.html
+URL       : https://high-athletes-cherry-platforms.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-24 11:17:12
+Created   : 2026-08-24 17:06:46
 =======================================================
